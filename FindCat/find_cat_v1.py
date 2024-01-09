@@ -16,8 +16,8 @@ class FindCat:
         for i in s_list:
             re.search(pattern, i.name)
             #cat is searched file
-
-        return s_list
+            testyy = f'{self.s_path}/{i.name}'
+        return testyy
 
 
 '''
@@ -40,5 +40,10 @@ class FindCat:
 '''
 
 
-test = FindCat('/home/rapa')
-print(test.search())
+test = FindCat("/home/rapa/Desktop")
+address = test.search()
+f = open(address,'r')
+print(list(f))
+f.close()
+
+# print(address)
