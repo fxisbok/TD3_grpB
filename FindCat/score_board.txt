@@ -16,3 +16,6 @@ sangbooook = 3
 sangbooooook = 2
 ㅁ = 2
 fa = 2
+ㅁ = 2
+angbok = 2
+sangbok = 2
