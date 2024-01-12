@@ -2,4 +2,5 @@ ________________SCOREBOARD________________
 sangbok  |  3  |  Fri Jan 12 19:37:29 2024
 sunny    |  3  |  Fri Jan 12 19:37:49 2024
 junhooo  |  3  |  Fri Jan 12 19:38:30 2024
+tommy    |  3  |  Fri Jan 12 19:40:04 2024
 kijung   |  2  |  Fri Jan 12 19:38:55 2024
