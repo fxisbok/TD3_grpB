@@ -32,7 +32,7 @@ class FindCat:
     def sortscore(self) -> None:
         with open(self.score_path,'r') as s_list:
             sr_list = s_list.readlines()
-            sortedcontainers = sorted(sr_list[3:], key=lambda x: x.split('|',2)[1],reverse=True)
+            sortedcontainers = sorted(sr_list[1:], key=lambda x: x.split('|',2)[1],reverse=True)
             sortedcontainers.insert(0,sr_list[0])
         with open(self.score_path,'w') as sw_list:
             sw_list.write(''.join(sortedcontainers))
