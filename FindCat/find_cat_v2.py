@@ -57,6 +57,7 @@ class FindCat:
         return result
 '''
 
+
 #--------------------------------------------------------------------------------
 
 
@@ -109,15 +110,15 @@ while True:
 5. receive current python file's path
 6. make life
  - while loop until life is 0
+7. sort *.txt file as score (if it is possible..)
+8. Add current time on scoreboard
 '''
 
 
 '''
 #TO DO
 1. DO NOT overlapping same value on scoreboard
-    - sonnie will do it!
-2. Add current time on scoreboard
-3. sort *.txt file as score (if it is possible..)
+    - sunny will do it!
 '''
 
 
@@ -125,4 +126,5 @@ while True:
 #Question
 1. split class n function file in real workflow?
 2. how to make not-forcing parameter?
+3. how to sort korean or other non-english language?
 '''
