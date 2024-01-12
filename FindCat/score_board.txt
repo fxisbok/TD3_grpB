@@ -8,3 +8,11 @@ tester14 = 3
 tester15 = 3
 tester16 = 3tester15 = 3
 bokbok = 3
+sangbok = 3
+bok = 3
+sangbokkk = 3
+sangbok = 3
+sangbooook = 3
+sangbooooook = 2
+ㅁ = 2
+fa = 2
