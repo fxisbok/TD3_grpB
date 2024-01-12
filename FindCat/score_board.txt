@@ -1,21 +1,5 @@
-
-
----------SCORE BOARD FOR WINNERS---------
-
-sangbok = 3
-tester13 = 3
-tester14 = 3
-tester15 = 3
-tester16 = 3tester15 = 3
-bokbok = 3
-sangbok = 3
-bok = 3
-sangbokkk = 3
-sangbok = 3
-sangbooook = 3
-sangbooooook = 2
-ㅁ = 2
-fa = 2
-ㅁ = 2
-angbok = 2
-sangbok = 2
+_____________SCORE BOARD_____________
+복        | 3 |  Fri Jan 12 19:11:45 2024
+가        | 3 |  Fri Jan 12 19:12:20 2024
+나        | 3 |  Fri Jan 12 19:13:27 2024
+상        | 2 |  Fri Jan 12 19:12:04 2024
