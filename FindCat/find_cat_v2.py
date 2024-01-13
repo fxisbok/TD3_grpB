@@ -37,6 +37,7 @@ class FindCat:
         with open(self.score_path,'w') as sw_list:
             sw_list.write(''.join(sortedcontainers))
 
+
     def printscore(self) -> None:
         with open(self.score_path,'r') as scoreboard:
             sb_lst = scoreboard.readlines()
